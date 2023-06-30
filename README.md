@@ -1,2 +1,3 @@
-# UnityPacman
-university module game programming project using unity
+1). Pacman is a unity source code and the Pacman release vision is the build of the game, you can start the pacman by double click the Pacman application
+
+2). When inserting the project into the unity, you will notice that there is an empty scene. it is because when you open a project in Unity and Unity has to recreate the Library, it might be that the empty default scene gets loaded. Just double click on your Scenes folder and open your saved scene. 
